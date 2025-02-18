@@ -15,3 +15,4 @@ $ git clone https://bitbucket.org/txstatecs3398all/intro-to-flask-websites-no-db
 ## Using the GitHub or Bitbuckect branch menu
 You can use GitHub's or Bitbucket's web interface to view each checkpoint/branch. Click on the branch menu and select the checkpoint you want to view, shown below:
 
+## This Repo will act as the baseplate for practicing docker and developing my future web-app projects
