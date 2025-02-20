@@ -1,8 +1,8 @@
 from intro_to_flask import app
 from flask_mail import Message, Mail
 import os
-from models import db, User
-from forms import ContactForm, SignupForm, SigninForm
+from .models import db, User
+from .forms import ContactForm, SignupForm, SigninForm
 from flask import render_template, request, flash, session, url_for, redirect
 
 
